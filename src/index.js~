@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import pwds from './pwds.js';
+import pwds from './pwds.js';
 import states from './states.js';
 import hang0 from './png/hang0.png'; 
 import hang1 from './png/hang1.png'; 
